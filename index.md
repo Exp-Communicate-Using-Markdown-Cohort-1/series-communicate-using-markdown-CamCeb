@@ -5,3 +5,5 @@
 ##### H5 Header Test
 ###### H6 Header Test
 Regular Text Test
+
+![Image of Cat](https://www.wfla.com/wp-content/uploads/sites/71/2023/05/GettyImages-1389862392.jpg?w=876&h=493&crop=1)

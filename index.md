@@ -11,3 +11,9 @@ Regular Text Test
 ```
 $ git init
 ```
+
+- [x] Part 1 [Test Headers]
+- [x] Part 2 [Add Image]
+- [x] Part 3 [Add code snippet]
+- [x] Part 4 [Add Check List]
+- [ ]  Part 5 [Merge to main]
